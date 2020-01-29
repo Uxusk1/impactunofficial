@@ -41,4 +41,4 @@
     </style>
     
 <h4>welcome to uxcrabdev's directory</h4>
-<a href=index2_foodpage.html><button class="button" style="vertical-align:middle"><span>Foods</span></button><a>
+<a href=exploits.html><button class="button" style="vertical-align:middle"><span>Foods</span></button><a>
